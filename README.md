@@ -29,4 +29,3 @@ DD4hep is distributed in the hope that it will be useful, but WITHOUT ANY WARRAN
 
 You should have received a copy of the GNU Lesser General Public License long with this program. If not, see [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
 
-
